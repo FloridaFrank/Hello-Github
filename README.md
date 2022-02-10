@@ -1,3 +1,2 @@
 # Hello-Github
-a hello github repo for using GitHub for our CI/CD to AWS
-going through the PR pull request / merge process
+The BNPL flip tiles UI demo. Using GitHub Pages static public site created for stakeholders to view.
